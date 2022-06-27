@@ -1,4 +1,4 @@
 - My commited pull requests: [Coreum-crust](https://go.exw.co/crust), [Coreum-cored](https://go.exw.co/coreum)
 - [My LinkedIn profile](https://go.exw.co/linkedin)
-- [my Website](https://go.exw.co)
+- [My Website](https://go.exw.co)
 - [Contact me](mailto:ping@exw.co)
